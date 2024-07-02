@@ -34,7 +34,8 @@ https://public.tableau.com/app/profile/vrinda.patel2443/viz/MyFirstViz_171992692
 
 
 
-![Uploading Screenshot 2024-07-02 at 11.48.20 PM.png…]()
+
+<img width="1440" alt="Screenshot 2024-07-02 at 11 48 20 PM" src="https://github.com/VrindaPtl/Citi_Bike/assets/155428439/5a87bcc5-2c70-462f-ac58-ba4067c18493">
 
 
 
